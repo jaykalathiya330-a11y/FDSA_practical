@@ -113,26 +113,4 @@ The repository will gradually cover important DSA concepts such as:
 │   ├── 💻 program2.cpp
 │   └── 📄 ...
 │
-├── 📂 Practical-03
-│   └── 🚧 Coming Soon
-│
-├── 📂 Practical-04
-│   └── 🚧 Coming Soon
-│
-├── 📂 Practical-05
-│   └── 🚧 Coming Soon
-│
-├── 📂 Practical-06
-│   └── 🚧 Coming Soon
-│
-├── 📂 Practical-07
-│   └── 🚧 Coming Soon
-│
-├── 📂 Practical-08
-│   └── 🚧 Coming Soon
-│
-├── 📂 Practical-09
-│   └── 🚧 Coming Soon
-│
-└── 📂 Practical-10
-    └── 🚧 Coming Soon
+├── ...
