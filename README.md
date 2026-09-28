@@ -56,23 +56,6 @@ and efficient problem solving.
 
 ---
 
-# 📚 Practical Index
-
-| # | Practical | Status | Topics |
-|:---:|:---|:---:|:---|
-| 01 | [📂 Practical 01](./Practical-01) | ✅ | DSA Fundamentals |
-| 02 | [📂 Practical 02](./Practical-02) | ✅ | Data Structures / Algorithms |
-| 03 | [📂 Practical 03](./Practical-03) | ⏳ | Coming Soon |
-| 04 | [📂 Practical 04](./Practical-04) | ⏳ | Coming Soon |
-| 05 | [📂 Practical 05](./Practical-05) | ⏳ | Coming Soon |
-| 06 | [📂 Practical 06](./Practical-06) | ⏳ | Coming Soon |
-| 07 | [📂 Practical 07](./Practical-07) | ⏳ | Coming Soon |
-| 08 | [📂 Practical 08](./Practical-08) | ⏳ | Coming Soon |
-| 09 | [📂 Practical 09](./Practical-09) | ⏳ | Coming Soon |
-| 10 | [📂 Practical 10](./Practical-10) | ⏳ | Coming Soon |
-
----
-
 # 🧠 Topics Covered
 
 The repository will gradually cover important DSA concepts such as:
@@ -93,22 +76,3 @@ The repository will gradually cover important DSA concepts such as:
 </div>
 
 ---
-
-# 📁 Repository Structure
-
-```text
-📦 DSA
-│
-├── 📄 README.md
-│
-├── 📂 Practical-01
-│   ├── 💻 program1.cpp
-│   ├── 💻 program2.cpp
-│   └── 📄 ...
-│
-├── 📂 Practical-02
-│   ├── 💻 program1.cpp
-│   ├── 💻 program2.cpp
-│   └── 📄 ...
-│
-├── ...
