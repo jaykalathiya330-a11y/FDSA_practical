@@ -47,10 +47,10 @@ and efficient problem solving.
 |:---:|:---:|:---:|
 | 01 | ✅ Completed | 🟢 100% |
 | 02 | ✅ Completed | 🟢 100% |
-| 03 | ⏳ Pending | ⚪ 0% |
-| 04 | ⏳ Pending | ⚪ 0% |
-| 05 | ⏳ Pending | ⚪ 0% |
-| 06 | ⏳ Pending | ⚪ 0% |
+| 03 | ✅ Completed | 🟢 100% |
+| 04 | ✅ Completed | 🟢 100% |
+| 05 | ✅ Completed | 🟢 100% |
+| 06 | ✅ Completed | 🟢 100% |
 | 07 | ⏳ Pending | ⚪ 0% |
 | 08 | ⏳ Pending | ⚪ 0% |
 | 09 | ⏳ Pending | ⚪ 0% |
