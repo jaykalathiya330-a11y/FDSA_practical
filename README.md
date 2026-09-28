@@ -37,9 +37,7 @@ and efficient problem solving.
 
 ### 🏆 Practical Completion
 
-**2 / 10 Practicals Completed**
-
-`████░░░░░░░░░░░░░░░░` **20%**
+**6 / 10 Practicals Completed**
 
 </div>
 
